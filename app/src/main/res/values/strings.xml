@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="input_text">Enter your next thing to do</string>
+    <string name="button_add">ADD</string>
+    <string name="delete_button">Delete</string>
+    <string name="share">Share</string>
+    <string name="not_checked_message">The thing you have to do is not completed yet</string>
+    <string name="checked_message">"Completed On: "</string>
+    <string name="share_button">Share</string>
+    <string name="color">Color</string>
+    <string name="select_color">Select Color</string>
+</resources>
